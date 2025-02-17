@@ -17,6 +17,6 @@
   <br />
 </div>
 
-![hero](https://github.com/miinhho/portfolio-clonecoding/blob/master/images/hero.png?raw=true)
-![info](https://github.com/miinhho/portfolio-clonecoding/blob/master/images/info.png?raw=true)
-![phase](https://github.com/miinhho/portfolio-clonecoding/blob/master/images/phase.png?raw=true)
+![hero](./images/hero.png)
+![info](./images/info.png)
+![phase](./images/phase.png)
